@@ -1,7 +1,7 @@
 ;;; flatland-black-theme.el --- an Emacs 24 theme based on Flatland Black (tmTheme)
 ;;
 ;;; Author: Jason Milkins
-;;; Version: 20141116.0000
+;;; Version: 20141116
 ;;; Url: https://github.com/emacsfodder/flatland-black-theme
 ;;; Package-Requires: ((emacs "24.0"))
 ;;
