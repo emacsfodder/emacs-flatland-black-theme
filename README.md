@@ -1,14 +1,4 @@
 
-# emacs-flatland-black-theme
+# Emacs flatland-black theme
 
-TODO: Add a proper README.md
-
-## Description
-
-## Usage
-
-## Licence
-
-## Contributing
-
-
+![](https://github.com/emacsfodder/emacs-flatland-black-theme/raw/master/flatland-black-theme.png)
